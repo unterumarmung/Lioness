@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python3 ./.githooks/run-clang-format/run-clang-format.py --in-place -r sources examples tests
